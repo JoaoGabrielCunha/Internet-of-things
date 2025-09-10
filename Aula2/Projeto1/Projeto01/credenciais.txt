@@ -1,0 +1,3 @@
+WiFi:
+ - Rede: Projeto
+ - Senha: 2022-11-07
