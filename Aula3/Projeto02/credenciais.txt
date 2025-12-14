@@ -1,9 +1,0 @@
-WiFi:
- - Rede: Projeto
- - Senha: 2022-11-07
-
-MQTT:
- - Endereço: mqtt.janks.dev.br
- - Porta: 8883
- - Login: aula
- - Senha: zowmad-tavQez
