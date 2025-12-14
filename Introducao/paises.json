@@ -1,0 +1,160 @@
+[
+    {
+        "nome": "Brasil",
+        "imagem": "https://www.worldometers.info/img/flags/br-flag.gif",
+        "elementos": [
+            {
+                "tipo": "retângulo",
+                "x": 20,
+                "y": 20,
+                "comprimento": 200,
+                "altura": 130,
+                "cor": 992
+            },
+            {
+                "tipo": "polígono",
+                "centro": {
+                    "x": 120,
+                    "y": 85
+                },
+                "pontos": [
+                    {
+                        "x": 120,
+                        "y": 40
+                    },
+                    {
+                        "x": 40,
+                        "y": 85
+                    },
+                    {
+                        "x": 120,
+                        "y": 130
+                    },
+                    {
+                        "x": 200,
+                        "y": 85
+                    }
+                ],
+                "cor": 65504
+            },
+            {
+                "tipo": "círculo",
+                "x": 120,
+                "y": 85,
+                "raio": 26,
+                "cor": 31
+            }
+        ]
+    },
+    {
+        "nome": "Franca",
+        "imagem": "https://www.worldometers.info/img/flags/fr-flag.gif",
+        "elementos": [
+            {
+                "tipo": "retângulo",
+                "x": 20,
+                "y": 20,
+                "comprimento": 67,
+                "altura": 130,
+                "cor": 31
+            },
+            {
+                "tipo": "retângulo",
+                "x": 87,
+                "y": 20,
+                "comprimento": 66,
+                "altura": 130,
+                "cor": 65535
+            },
+            {
+                "tipo": "retângulo",
+                "x": 153,
+                "y": 20,
+                "comprimento": 67,
+                "altura": 130,
+                "cor": 63488
+            }
+        ]
+    },
+    {
+        "nome": "Niger",
+        "imagem": "https://www.worldometers.info/img/flags/ng-flag.gif",
+        "elementos": [
+            {
+                "tipo": "retângulo",
+                "x": 20,
+                "y": 20,
+                "comprimento": 200,
+                "altura": 44,
+                "cor": 64800
+            },
+            {
+                "tipo": "retângulo",
+                "x": 20,
+                "y": 64,
+                "comprimento": 200,
+                "altura": 43,
+                "cor": 65535
+            },
+            {
+                "tipo": "retângulo",
+                "x": 20,
+                "y": 107,
+                "comprimento": 200,
+                "altura": 44,
+                "cor": 992
+            },
+            {
+                "tipo": "círculo",
+                "x": 120,
+                "y": 85,
+                "raio": 20,
+                "cor": 64800
+            }
+        ]
+    },
+    {
+        "nome": "Republica Checa",
+        "imagem": "https://www.worldometers.info/img/flags/ez-flag.gif",
+        "elementos": [
+            {
+                "tipo": "retângulo",
+                "x": 20,
+                "y": 20,
+                "comprimento": 200,
+                "altura": 65,
+                "cor": 65535
+            },
+            {
+                "tipo": "retângulo",
+                "x": 20,
+                "y": 85,
+                "comprimento": 200,
+                "altura": 65,
+                "cor": 63488
+            },
+            {
+                "tipo": "polígono",
+                "centro": {
+                    "x": 70,
+                    "y": 85
+                },
+                "pontos": [
+                    {
+                        "x": 20,
+                        "y": 20
+                    },
+                    {
+                        "x": 20,
+                        "y": 150
+                    },
+                    {
+                        "x": 130,
+                        "y": 85
+                    }
+                ],
+                "cor": 31
+            }
+        ]
+    }
+]

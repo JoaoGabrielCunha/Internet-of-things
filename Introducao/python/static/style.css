@@ -1,0 +1,45 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: rgb(42, 37, 37);;
+  color: white;
+}
+
+p {
+  max-width: 100%;
+  width: 700px;
+  padding: 12px;
+  background-color: rgb(84, 82, 82);
+  overflow: auto;
+  text-wrap: wrap;
+  font-family: monospace;
+}
+
+img {
+  border: 5px solid whitesmoke;
+  height: 80px;
+}
+
+a {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  color: lightgray;
+}
+
+input, textarea {
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(148, 148, 148);
+  background-color: rgb(61, 60, 60);
+  color: white;
+  display: block;
+}
+
+label {
+  display: block;
+}
+
+textarea {
+  width: 400px;
+  height: 100px;
+  max-width: 100%;
+}
