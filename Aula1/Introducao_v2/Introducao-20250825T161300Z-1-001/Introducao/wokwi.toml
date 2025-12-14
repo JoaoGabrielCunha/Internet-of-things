@@ -1,6 +1,0 @@
-[wokwi]
-version = 1
-#elf = "common_build/firmware.elf"
-#firmware = "common_build/firmware.hex"
-elf = ".pio/build/integracao/firmware.elf"
-firmware = ".pio/build/integracao/firmware.hex"
