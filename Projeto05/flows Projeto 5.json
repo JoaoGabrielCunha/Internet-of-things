@@ -1,0 +1,30 @@
+[
+    {
+        "id": "b7cc7736570c43d2",
+        "type": "change",
+        "z": "f39cf42c90fc3733",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "queryParameters",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 560,
+        "wires": [
+            [
+                "1da4a13d4b12067e",
+                "e7be8198e72a7d4d"
+            ]
+        ]
+    }
+]
